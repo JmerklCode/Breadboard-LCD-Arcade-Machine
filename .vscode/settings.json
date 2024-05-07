@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "game.h": "c",
+        "time.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "pthread.h": "c",
+        "joystick_input.h": "c",
+        "joystick.h": "c",
+        "gpio.h": "c",
+        "button.h": "c",
+        "asoundlib.h": "c"
+    }
+}
